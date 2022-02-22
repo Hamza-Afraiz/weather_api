@@ -1,0 +1,21 @@
+
+.listCard{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  
+    width:20%;
+   
+    padding: 4px;
+    height: 150px;
+
+   
+    
+    
+    
+}
+.img{
+    width: 60px;
+    height:90px
+}
+
